@@ -1,0 +1,83 @@
+[05-Mar-2019 20:37:04 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/owenyhae/ratemyrental.cc/submitRating.php on line 92
+[05-Mar-2019 20:37:06 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/owenyhae/ratemyrental.cc/submitRating.php on line 92
+[05-Mar-2019 20:44:30 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/owenyhae/ratemyrental.cc/submitRating.php on line 92
+[05-Mar-2019 20:44:32 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/owenyhae/ratemyrental.cc/submitRating.php on line 92
+[05-Mar-2019 20:45:32 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/owenyhae/ratemyrental.cc/submitRating.php on line 94
+[05-Mar-2019 20:45:34 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/owenyhae/ratemyrental.cc/submitRating.php on line 94
+[05-Mar-2019 20:57:24 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/owenyhae/ratemyrental.cc/submitRating.php on line 104
+[05-Mar-2019 20:58:44 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/owenyhae/ratemyrental.cc/submitRating.php on line 104
+[05-Mar-2019 20:58:46 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/owenyhae/ratemyrental.cc/submitRating.php on line 104
+[05-Mar-2019 21:17:36 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[05-Mar-2019 21:17:36 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[05-Mar-2019 21:17:36 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[05-Mar-2019 21:17:36 America/New_York] PHP Notice:  Undefined variable: rTransparency in /home/owenyhae/ratemyrental.cc/commitRating.php on line 48
+[05-Mar-2019 21:43:25 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[05-Mar-2019 21:43:25 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[05-Mar-2019 21:43:25 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[05-Mar-2019 21:43:25 America/New_York] PHP Notice:  Undefined variable: rTransparency in /home/owenyhae/ratemyrental.cc/commitRating.php on line 48
+[06-Mar-2019 16:21:47 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 16:21:47 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 16:21:47 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 16:21:47 America/New_York] PHP Notice:  Undefined variable: rTransparency in /home/owenyhae/ratemyrental.cc/commitRating.php on line 48
+[06-Mar-2019 16:30:31 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 16:30:31 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 16:30:31 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 16:30:31 America/New_York] PHP Notice:  Undefined variable: rTransparency in /home/owenyhae/ratemyrental.cc/commitRating.php on line 48
+[06-Mar-2019 17:02:33 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 17:02:33 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 17:02:33 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 17:02:33 America/New_York] PHP Notice:  Undefined variable: rTransparency in /home/owenyhae/ratemyrental.cc/commitRating.php on line 48
+[06-Mar-2019 20:40:03 America/New_York] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 23
+[06-Mar-2019 20:40:53 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:40:53 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:40:53 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:40:53 America/New_York] PHP Notice:  Undefined index: name in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 13
+[06-Mar-2019 20:40:53 America/New_York] PHP Notice:  Undefined index: email in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 14
+[06-Mar-2019 20:40:53 America/New_York] PHP Notice:  Undefined index: phone in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 15
+[06-Mar-2019 20:40:53 America/New_York] PHP Notice:  Undefined index: message in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 16
+[06-Mar-2019 20:40:53 America/New_York] PHP Notice:  Undefined variable: company in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 19
+[06-Mar-2019 20:40:53 America/New_York] PHP Notice:  Undefined index: message in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 24
+[06-Mar-2019 20:42:48 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:42:48 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:42:48 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:42:48 America/New_York] PHP Notice:  Undefined index: email in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 14
+[06-Mar-2019 20:42:48 America/New_York] PHP Notice:  Undefined index: phone in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 15
+[06-Mar-2019 20:42:48 America/New_York] PHP Notice:  Undefined index: message in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 16
+[06-Mar-2019 20:42:48 America/New_York] PHP Notice:  Undefined variable: company in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 19
+[06-Mar-2019 20:42:48 America/New_York] PHP Notice:  Undefined index: message in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 24
+[06-Mar-2019 20:47:27 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:47:27 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:47:27 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:47:27 America/New_York] PHP Notice:  Undefined variable: company in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 19
+[06-Mar-2019 20:48:11 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:48:11 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:48:11 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:48:11 America/New_York] PHP Notice:  Undefined variable: company in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 19
+[06-Mar-2019 20:48:55 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:48:55 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:48:55 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:48:55 America/New_York] PHP Notice:  Undefined variable: company in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 19
+[06-Mar-2019 20:53:00 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:53:00 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:53:00 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:53:00 America/New_York] PHP Notice:  Undefined variable: company in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 19
+[06-Mar-2019 20:53:36 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:53:36 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:53:36 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:53:36 America/New_York] PHP Notice:  Undefined variable: company in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 19
+[06-Mar-2019 20:54:53 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:54:53 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:54:53 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:54:53 America/New_York] PHP Notice:  Undefined variable: company in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 19
+[06-Mar-2019 20:57:34 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:57:34 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:57:34 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 2
+[06-Mar-2019 20:57:34 America/New_York] PHP Notice:  Undefined variable: company in /home/owenyhae/ratemyrental.cc/commitContactForm.php on line 19
+[06-Mar-2019 21:58:34 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 21:58:34 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 21:58:34 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 21:58:34 America/New_York] PHP Notice:  Undefined variable: rTransparency in /home/owenyhae/ratemyrental.cc/commitRating.php on line 48
+[06-Mar-2019 22:01:17 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 22:01:17 America/New_York] PHP Warning:  include(connectionStrs.php): failed to open stream: No such file or directory in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 22:01:17 America/New_York] PHP Warning:  include(): Failed opening 'connectionStrs.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/owenyhae/ratemyrental.cc/commitRating.php on line 3
+[06-Mar-2019 22:01:17 America/New_York] PHP Notice:  Undefined variable: rTransparency in /home/owenyhae/ratemyrental.cc/commitRating.php on line 48
